@@ -76,4 +76,6 @@ footer{
     align-content: center;
     max-height: 400px;
     max-width: 600px;
+    height: auto;
+    width: 100%;
 }
